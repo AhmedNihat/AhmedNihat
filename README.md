@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ullah</h1>
-<h3 align="center">🚀 A Passionate Data Science Enthusiast | Lifelong Learner | Problem Solver</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFCC;">Ahmed Ullah</span></h1>
+<h3 align="center">🚀 Data Science Enthusiast | Lifelong Learner | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=✨+Welcome+to+my+GitHub+Portfolio+✨;Explore+my+Projects%2C+Skills%2C+and+Journey!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=800&lines=✨+Welcome+to+my+GitHub+Profile!;💡+Exploring+Data+Science+with+Passion;🚀+Building+Projects+One+Line+at+a+Time!" alt="Typing SVG" />
 </h2>
 
 ---
@@ -22,17 +22,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
+<p align="center">
   <!-- Libraries & Frameworks -->
-  <br><br>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
+<p align="center">
   <!-- Tools -->
-  <br><br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -41,16 +43,16 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Exploring
 
-- 🧠 **Deep Learning** with TensorFlow  
-- 📊 **Advanced Data Visualization** techniques  
-- 📚 **Statistics for Data Science**  
-- 🧮 **Machine Learning Concepts**  
+- 🤖 **Deep Learning** with TensorFlow  
+- 📊 **Advanced Visualization** in Python & BI tools  
+- 📚 **Statistics & Probability** for ML  
+- 🧠 **Machine Learning Algorithms**
 
 ---
 
-### 🌐 Let's Connect
+### 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-ullah-ds" target="_blank">
@@ -70,15 +72,4 @@
 ---
 
 ### ✨ Fun Fact
-
-> "Data is the new oil, and I'm here to refine it with precision!" 💡🚀
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedUllah-Nihat&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedUllah-Nihat&theme=radical" />
-</p>
+> "Data is the new oil, and I'm here to refine it with algorithms, curiosity, and a touch of caffeine!" ☕💻
