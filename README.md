@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFCC;">Ahmed Ullah</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFCC;">𝒜𝒽𝓂𝑒𝒹 𝒰𝓁𝓁𝒶𝒽</span></h1>
+
 <h3 align="center">🚀 Data Science Enthusiast | Lifelong Learner | Problem Solver</h3>
 
 <p align="center">
@@ -8,8 +9,9 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=800&lines=✨+Welcome+to+my+GitHub+Profile!;💡+Exploring+Data+Science+with+Passion;🚀+Building+Projects+One+Line+at+a+Time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFCC&width=800&lines=✨+Welcome+to+my+GitHub+Profile;📊+Data+Science+Enthusiast+%7C+Machine+Learning+Explorer;🧠+Turning+Data+into+Insights+%26+Solutions;🚀+Crafting+Projects+with+Purpose+%26+Precision" alt="Professional Typing SVG" />
 </h2>
+
 
 ---
 
