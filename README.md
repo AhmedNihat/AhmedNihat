@@ -1,7 +1,7 @@
 <!-- GitHub README.md -->
 
 <h1 align="center" style="font-family:monospace;">
-  👾 <span style="color:#00FFF7;">Ahmed Ullah</span> | <span style="color:#FF00C8;">Data Cybernaut</span>
+  👾 <span style="color:#00FFF7;">Ahmed Ullah</span> | <span style="color:#FF00C8;">N1BroX</span>
 </h1>
 
 <h3 align="center">Data Analyst ⚡ Machine Learning Explorer ⚡ Digital Tinkerer</h3>
