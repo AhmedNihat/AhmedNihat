@@ -74,15 +74,15 @@ class AhmedUllah:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n1brox&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FFF7&icon_color=FF00C8&text_color=ffffff&border_color=00FFF7&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedNihat&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FFF7&icon_color=FF00C8&text_color=ffffff&border_color=00FFF7&hide_border=false&count_private=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1brox&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FFF7&text_color=ffffff&border_color=FF00C8&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNihat&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FFF7&text_color=ffffff&border_color=FF00C8&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=n1brox&theme=dark&background=0d0d0d&ring=00FFF7&fire=FF00C8&currStreakLabel=00FFF7&sideLabels=ffffff&border=00FFF7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNihat&theme=dark&background=0d0d0d&ring=00FFF7&fire=FF00C8&currStreakLabel=00FFF7&sideLabels=ffffff&border=00FFF7" />
 
 </div>
 
@@ -92,7 +92,7 @@ class AhmedUllah:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=n1brox&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedNihat&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -102,7 +102,7 @@ class AhmedUllah:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1brox&bg_color=0d0d0d&color=00FFF7&line=FF00C8&point=ffffff&area=true&hide_border=false&border_color=00FFF7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedNihat&bg_color=0d0d0d&color=00FFF7&line=FF00C8&point=ffffff&area=true&hide_border=false&border_color=00FFF7" />
 
 </div>
 
@@ -125,11 +125,11 @@ class AhmedUllah:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmed-ullah-ds)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/n1brox)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/AhmedNihat)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com)
 [![Facebook](https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/)
 
-<img src="https://komarev.com/ghpvc/?username=n1brox&color=00FFF7&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AhmedNihat&color=00FFF7&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
